@@ -1,5 +1,4 @@
 # Hi , I'm Naga Lakshmi Prasanna Sadhanala 👋
-
 ### 🚀 About Me
 I am a **DevOps Engineer** passionate about streamlining software delivery, optimizing infrastructure, and implementing automated deployment pipelines. I bridge the gap between development and operations to build secure, scalable, and high-performing architectures.
 
