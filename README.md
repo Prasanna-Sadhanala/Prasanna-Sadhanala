@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a **DevOps Engineer** passionate about streamlining software delivery, optimizing infrastructure, and implementing automated deployment pipelines. I bridge the gap between development and operations to build secure, scalable, and high-performing architectures.
 
-### 🛠️ Technical Toolkit
+<!-- ### 🛠️ Technical Toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I am a **DevOps Engineer** passionate about streamlining software delivery, opti
 
 📬 **How to reach me:** [nadipineninahgalaksmi529@gmail.com](mailto:nadipineninahgalaksmi529@gmail.com)
 
-# 💫 About Me:
+# 💫 About Me: -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nagalakshmiprasanna-sadhanala) 
 
